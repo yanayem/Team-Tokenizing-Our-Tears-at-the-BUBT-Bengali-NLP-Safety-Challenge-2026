@@ -5,6 +5,7 @@
 [![Model](https://img.shields.io/badge/Model-BanglaBERT%20%2B%20BiLSTM%20%2B%20TF--IDF-green.svg)](https://huggingface.co/csebuetnlp/banglabert)
 [![Private%20LB](https://img.shields.io/badge/Private%20LB-0.589-orange.svg)]()
 [![Public%20LB](https://img.shields.io/badge/Public%20LB-0.593-yellow.svg)]()
+[![License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 
 This repository contains the official implementation, dataset, and experiments for **Team Tokenizing_Our_Tears** (Paper ID: `BNSC-026`) at the [**BUBT Bengali NLP Safety Challenge 2026**](https://www.kaggle.com/competitions/bengali-nlp-safety-challenge-2026/) competition on **Fine-Grained Bengali Toxicity Understanding**.
 
@@ -132,10 +133,10 @@ The system predicts **7 binary target labels** for each input comment:
 ## 🚀 Getting Started
 
 ### Prerequisites
-Ensure you have Python 3.8+ and PyTorch installed with CUDA support.
+Ensure you have Python 3.8+ and PyTorch installed with CUDA support. You can install all dependencies via `requirements.txt`:
 
 ```bash
-pip install torch transformers scikit-learn pandas numpy matplotlib seaborn tqdm
+pip install -r requirements.txt
 ```
 
 ### Running the Notebooks
