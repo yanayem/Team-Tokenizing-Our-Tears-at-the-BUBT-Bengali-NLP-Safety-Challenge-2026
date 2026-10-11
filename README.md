@@ -1,11 +1,12 @@
 # Team Tokenizing_Our_Tears at BUBT Bengali NLP Safety Challenge 2026
 
-[![Task](https://img.shields.io/badge/Task-Fine--Grained%20Bengali%20Toxicity%20Understanding-blue.svg)](https://bubt.edu.bd)
+[![Kaggle](https://img.shields.io/badge/Kaggle-Bengali%20NLP%20Safety%20Challenge%202026-20BEFF.svg?logo=kaggle)](https://www.kaggle.com/competitions/bengali-nlp-safety-challenge-2026/)
+[![Task](https://img.shields.io/badge/Task-Fine--Grained%20Bengali%20Toxicity%20Understanding-blue.svg)](https://www.kaggle.com/competitions/bengali-nlp-safety-challenge-2026/)
 [![Model](https://img.shields.io/badge/Model-BanglaBERT%20%2B%20BiLSTM%20%2B%20TF--IDF-green.svg)](https://huggingface.co/csebuetnlp/banglabert)
 [![Private%20LB](https://img.shields.io/badge/Private%20LB-0.589-orange.svg)]()
 [![Public%20LB](https://img.shields.io/badge/Public%20LB-0.593-yellow.svg)]()
 
-This repository contains the official implementation, dataset, and experiments for **Team Tokenizing_Our_Tears** (Paper ID: `BNSC-026`) at the **BUBT Bengali NLP Safety Challenge 2026** on **Fine-Grained Bengali Toxicity Understanding**.
+This repository contains the official implementation, dataset, and experiments for **Team Tokenizing_Our_Tears** (Paper ID: `BNSC-026`) at the [**BUBT Bengali NLP Safety Challenge 2026**](https://www.kaggle.com/competitions/bengali-nlp-safety-challenge-2026/) competition on **Fine-Grained Bengali Toxicity Understanding**.
 
 Our solution proposes a hybrid system combining contextual representations from a pretrained **BanglaBERT--BiLSTM** neural network with surface-level lexical features from a **Word and Character TF--IDF** logistic regression classifier.
 
@@ -145,9 +146,20 @@ pip install torch transformers scikit-learn pandas numpy matplotlib seaborn tqdm
 
 ---
 
-## 👥 Authors & Acknowledgments
+## 👥 Team Members & Acknowledgments
 
 **Team Tokenizing_Our_Tears** (Team Phoenix)
+- **Yacin Arafat**
+  - ID: `20245103160` | Intake: 53, Section: 2 | Dept. of CSE, BUBT
+  - Email: [yanayem01@gmail.com](mailto:yanayem01@gmail.com)
+- **Zikra**
+  - ID: `20244103132` | Intake: 54, Section: 5 | Dept. of CSE, BUBT
+  - Email: [zikraak04@gmail.com](mailto:zikraak04@gmail.com)
+- **Shudipto Ghosh**
+  - ID: `20245103151` | Intake: 53, Section: 8 | Dept. of CSE, BUBT
+  - Email: [shudiptoghosh2001@gmail.com](mailto:shudiptoghosh2001@gmail.com)
+
+**Supervisor / Advisor**
 - **Md. Mithun Hossain** ([mithun@bubt.edu.bd](mailto:mithun@bubt.edu.bd))
 - Department of Computer Science and Engineering, Bangladesh University of Business and Technology (BUBT), Dhaka, Bangladesh.
 
@@ -160,9 +172,9 @@ pip install torch transformers scikit-learn pandas numpy matplotlib seaborn tqdm
 If you find this work useful in your research, please cite our paper:
 
 ```bibtex
-@inproceedings{mithun2026tokenizing_our_tears,
+@inproceedings{yacin2026tokenizing_our_tears,
   title     = {Team Tokenizing\_Our\_Tears at the BUBT Bengali NLP Safety Challenge 2026: A Hybrid BanglaBERT--BiLSTM and TF--IDF System for Multi-Label Bengali Toxicity Classification},
-  author    = {Md. Mithun Hossain and others},
+  author    = {Yacin Arafat and Zikra and Shudipto Ghosh and Md. Mithun Hossain},
   booktitle = {Proceedings of the BUBT Bengali NLP Safety Challenge 2026},
   year      = {2026},
   note      = {Paper ID: BNSC-026}
