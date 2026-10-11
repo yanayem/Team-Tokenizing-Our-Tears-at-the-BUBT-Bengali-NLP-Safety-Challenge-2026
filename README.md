@@ -5,7 +5,7 @@
 [![Model](https://img.shields.io/badge/Model-BanglaBERT%20%2B%20BiLSTM%20%2B%20TF--IDF-green.svg)](https://huggingface.co/csebuetnlp/banglabert)
 [![Private%20LB](https://img.shields.io/badge/Private%20LB-0.589-orange.svg)]()
 [![Public%20LB](https://img.shields.io/badge/Public%20LB-0.593-yellow.svg)]()
-[![License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
+[![License](https://img.shields.io/badge/License-CC%20BY--NC%204.0-red.svg)](LICENSE)
 
 This repository contains the official implementation, dataset, and experiments for **Team Tokenizing_Our_Tears** (Paper ID: `BNSC-026`) at the [**BUBT Bengali NLP Safety Challenge 2026**](https://www.kaggle.com/competitions/bengali-nlp-safety-challenge-2026/) competition on **Fine-Grained Bengali Toxicity Understanding**.
 
@@ -165,6 +165,17 @@ pip install -r requirements.txt
 - Department of Computer Science and Engineering, Bangladesh University of Business and Technology (BUBT), Dhaka, Bangladesh.
 
 *Organized as part of the BUBT Bengali NLP Safety Challenge 2026.*
+
+---
+
+## 🔒 License & Usage Terms
+
+### 1. Code & Pipeline (Non-Commercial Open Source)
+This repository and its codebase are open-source for **academic, research, and non-commercial educational purposes only** under the **CC BY-NC 4.0** license. Any commercial or business use of the code, pipeline, or model weights is **strictly prohibited**.
+
+### 2. Dataset Ownership & Restrictions
+- All rights, titles, and intellectual property of the **BUBT Bengali NLP Safety Challenge 2026** dataset belong exclusively to the **BUBT Authors & Competition Organizers**.
+- **Usage Restrictions**: No individual, company, or third party is permitted to use, redistribute, republish, or modify the dataset for personal or commercial purposes without explicit prior written authorization from the BUBT competition authors.
 
 ---
 

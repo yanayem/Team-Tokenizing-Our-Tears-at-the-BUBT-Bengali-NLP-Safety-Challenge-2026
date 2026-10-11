@@ -1,21 +1,22 @@
-MIT License
+Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)
 
-Copyright (c) 2026 Team Tokenizing_Our_Tears
+Copyright (c) 2026 Team Tokenizing_Our_Tears & BUBT NLP Safety Challenge Organizers
 
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
+================================================================================
+1. CODE & PIPELINE LICENSE (NON-COMMERCIAL USE ONLY)
+================================================================================
+You are free to:
+  - Share — copy and redistribute the code in any medium or format
+  - Adapt — remix, transform, and build upon the code
 
-The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the Software.
+Under the following terms:
+  - Attribution — You must give appropriate credit to Team Tokenizing_Our_Tears and BUBT.
+  - NonCommercial — You may NOT use the material or models for commercial or business purposes.
 
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-SOFTWARE.
+================================================================================
+2. DATASET OWNERSHIP & RESTRICTIONS
+================================================================================
+  - All rights, title, and ownership of the BUBT Bengali NLP Safety Challenge 2026
+    dataset belong exclusively to the BUBT Competition Authors and Organizers.
+  - No user or third party is permitted to use, distribute, modify, or adapt
+    the dataset without explicit written permission from the BUBT authors/organizers.
