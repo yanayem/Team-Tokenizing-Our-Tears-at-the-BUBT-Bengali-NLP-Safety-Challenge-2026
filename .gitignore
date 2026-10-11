@@ -1,0 +1,7 @@
+.idea/workspace.xml
+.idea/caches/
+.idea/deviceStreaming.xml
+.ipynb_checkpoints/
+__pycache__/
+*.pyc
+.DS_Store
